@@ -1,0 +1,1 @@
+draw_text_colour(x, y, "Player 2 is: " + string(con_server.player2), c_white, c_white, c_white, c_white, 1);

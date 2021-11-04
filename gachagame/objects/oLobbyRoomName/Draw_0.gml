@@ -1,0 +1,1 @@
+draw_text_colour(x, y, "Welcome " + string(instance_find(con_client, 0).user), c_white, c_white, c_white, c_white, 1);
